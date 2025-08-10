@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "title": "Saluti e Presentazioni",
+    "vocab": [
+      [
+        "Hallo",
+        "Ciao"
+      ],
+      [
+        "Guten Morgen",
+        "Buongiorno (mattina)"
+      ],
+      [
+        "Guten Tag",
+        "Buongiorno"
+      ],
+      [
+        "Guten Abend",
+        "Buonasera"
+      ],
+      [
+        "Tschüss",
+        "Ciao (quando si va via)"
+      ],
+      [
+        "Auf Wiedersehen",
+        "Arrivederci"
+      ],
+      [
+        "Ich heiße...",
+        "Mi chiamo..."
+      ],
+      [
+        "Wie heißen Sie?",
+        "Come si chiama? (formale)"
+      ],
+      [
+        "Wie heißt du?",
+        "Come ti chiami? (informale)"
+      ]
+    ],
+    "phrases": [
+      "Hallo, ich heiße Marco. Und Sie?",
+      "Guten Morgen! Wie heißen Sie?",
+      "Tschüss, bis morgen!"
+    ],
+    "notes": "Il verbo 'heißen' significa 'chiamarsi'. 'Sie' maiuscolo = Lei (formale)."
+  },
+  {
+    "id": 2,
+    "title": "Alfabet e Pronuncia base",
+    "vocab": [
+      [
+        "Ä, Ö, Ü, ß",
+        "Lettere speciali: Ä ä, Ö ö, Ü ü, ß (ss)"
+      ],
+      [
+        "Ch",
+        "suono dolce in 'ich' o gutturale in 'Bach'"
+      ],
+      [
+        "W",
+        "si legge come 'v'"
+      ],
+      [
+        "V",
+        "si legge come 'f'"
+      ]
+    ],
+    "phrases": [
+      "Ich spreche ein bisschen Deutsch.",
+      "Können Sie das buchstabieren?"
+    ],
+    "notes": "La W si pronuncia come 'v'. ß = 'ss'."
+  },
+  {
+    "id": 3,
+    "title": "Numeri e Contare (0-20)",
+    "vocab": [
+      [
+        "null",
+        "0"
+      ],
+      [
+        "eins",
+        "1"
+      ],
+      [
+        "zwei",
+        "2"
+      ],
+      [
+        "drei",
+        "3"
+      ],
+      [
+        "vier",
+        "4"
+      ],
+      [
+        "fünf",
+        "5"
+      ],
+      [
+        "sechs",
+        "6"
+      ],
+      [
+        "sieben",
+        "7"
+      ],
+      [
+        "acht",
+        "8"
+      ],
+      [
+        "neun",
+        "9"
+      ],
+      [
+        "zehn",
+        "10"
+      ],
+      [
+        "elf",
+        "11"
+      ],
+      [
+        "zwölf",
+        "12"
+      ],
+      [
+        "dreizehn",
+        "13"
+      ],
+      [
+        "zwanzig",
+        "20"
+      ]
+    ],
+    "phrases": [
+      "Ich bin 30 Jahre alt.",
+      "Zwei Kaffee, bitte."
+    ],
+    "notes": "In contesti rumorosi 'zwei' può diventare 'zwo'."
+  },
+  {
+    "id": 4,
+    "title": "Articoli e Genere",
+    "vocab": [
+      [
+        "der Mann",
+        "l'uomo (maschile)"
+      ],
+      [
+        "die Frau",
+        "la donna (femminile)"
+      ],
+      [
+        "das Kind",
+        "il bambino (neutro)"
+      ],
+      [
+        "das Mädchen",
+        "la ragazza (neutro)"
+      ]
+    ],
+    "phrases": [],
+    "notes": "Der=maschile, Die=femminile, Das=neutro. Non sempre corrisponde all'italiano."
+  },
+  {
+    "id": 5,
+    "title": "Verbi: sein e haben",
+    "vocab": [
+      [
+        "sein",
+        "essere"
+      ],
+      [
+        "haben",
+        "avere"
+      ],
+      [
+        "ich bin",
+        "io sono"
+      ],
+      [
+        "ich habe",
+        "io ho"
+      ]
+    ],
+    "phrases": [
+      "Ich bin müde.",
+      "Ich habe Hunger."
+    ],
+    "notes": "Coniugazioni essenziali incluse nella lezione."
+  },
+  {
+    "id": 6,
+    "title": "Verbi regolari (presente)",
+    "vocab": [
+      [
+        "lernen",
+        "imparare"
+      ],
+      [
+        "spielen",
+        "giocare"
+      ],
+      [
+        "ich lerne",
+        "io imparo"
+      ],
+      [
+        "wir spielen",
+        "noi giochiamo"
+      ]
+    ],
+    "phrases": [
+      "Ich lerne Deutsch.",
+      "Wir spielen Fußball."
+    ],
+    "notes": "Rimuovi -en e aggiungi: -e, -st, -t, -en, -t, -en."
+  },
+  {
+    "id": 7,
+    "title": "Domande Semplici",
+    "vocab": [
+      [
+        "Wer?",
+        "Chi?"
+      ],
+      [
+        "Was?",
+        "Cosa?"
+      ],
+      [
+        "Wo?",
+        "Dove?"
+      ],
+      [
+        "Wie?",
+        "Come?"
+      ],
+      [
+        "Wann?",
+        "Quando?"
+      ],
+      [
+        "Warum?",
+        "Perché?"
+      ]
+    ],
+    "phrases": [
+      "Wo ist der Bahnhof?",
+      "Was ist das?"
+    ],
+    "notes": "Usa gli interrogativi per chiedere informazioni basilari."
+  },
+  {
+    "id": 8,
+    "title": "Al Ristorante",
+    "vocab": [
+      [
+        "die Speisekarte",
+        "il menù"
+      ],
+      [
+        "bestellen",
+        "ordinare"
+      ],
+      [
+        "die Rechnung",
+        "il conto"
+      ],
+      [
+        "bezahlen",
+        "pagare"
+      ],
+      [
+        "Ich möchte...",
+        "Vorrei..."
+      ]
+    ],
+    "phrases": [
+      "Ich möchte ein Bier, bitte.",
+      "Die Rechnung, bitte."
+    ],
+    "notes": "Frasi utili per ordinare e chiedere il conto."
+  },
+  {
+    "id": 9,
+    "title": "Trasporti",
+    "vocab": [
+      [
+        "der Bus",
+        "l'autobus"
+      ],
+      [
+        "der Zug",
+        "il treno"
+      ],
+      [
+        "die U-Bahn",
+        "la metropolitana"
+      ],
+      [
+        "das Taxi",
+        "il taxi"
+      ],
+      [
+        "das Ticket",
+        "il biglietto"
+      ]
+    ],
+    "phrases": [
+      "Wo ist die Haltestelle?",
+      "Ich möchte ein Ticket nach Berlin."
+    ],
+    "notes": "Frasi per chiedere indicazioni e biglietti."
+  },
+  {
+    "id": 10,
+    "title": "Shopping",
+    "vocab": [
+      [
+        "der Preis",
+        "il prezzo"
+      ],
+      [
+        "billig",
+        "economico"
+      ],
+      [
+        "teuer",
+        "caro"
+      ],
+      [
+        "kaufen",
+        "comprare"
+      ],
+      [
+        "die Größe",
+        "la taglia"
+      ]
+    ],
+    "phrases": [
+      "Wie viel kostet das?",
+      "Haben Sie das in Größe M?"
+    ],
+    "notes": "Role-play per esercitarsi in negozio."
+  }
+]
